@@ -7,6 +7,7 @@ builds/*
 training_data/
 *.pyc
 __pycache__/
+data/
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
